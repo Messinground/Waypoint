@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://messinground.github.io/Waypoint/sitemap.xml
